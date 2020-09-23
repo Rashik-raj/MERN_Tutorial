@@ -1,4 +1,4 @@
-import React, { Component, COmponent } from 'react';
+import React, { Component } from 'react';
 import {
     Collapse,
     Navbar,
